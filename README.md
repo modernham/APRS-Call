@@ -11,9 +11,11 @@ Instead of having more dependencies and relying on JS8Call not breaking the appl
 The user just needs to copy the text from APRSCall into JS8Call and hit send.
 
 What can it send?
+
 SMS, EMAIL, GRID, and Direct APRS Message.
 
 How to run:
+
 Simply install python, and run the application with "python main.py" in either windows or linux.
 
 If you are on windows, installing python isn't even necessary as I've provided a binary in the "dist" folder.
