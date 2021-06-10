@@ -17,6 +17,8 @@ SMS, EMAIL, GRID, and Direct APRS Message.
 How to run:
 
 Simply install python, and run the application with "python main.py" in either windows or linux.
+Type your message. Phone numbers are 11 digits. 
+Then simply create the string, and copy/paste into JS8Call and hit send. 
 
 If you are on windows, installing python isn't even necessary as I've provided a binary in the "dist" folder.
 This is to make things as easy as possible.
